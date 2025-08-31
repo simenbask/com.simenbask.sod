@@ -1,0 +1,14 @@
+{
+    "name": "com.simenbask.sod.runtime",
+    "rootNamespace": "com.simenbask.sod.Runtime",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
