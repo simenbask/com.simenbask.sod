@@ -15,7 +15,7 @@ namespace com.simenbask.sod.Runtime
             get { return _value; }
             set
             {
-                if (value.Equals(_value))
+                if (!value.Equals(_value))
                 {
                     _value = value;
                     OnValueChanged?.Invoke(_value);
