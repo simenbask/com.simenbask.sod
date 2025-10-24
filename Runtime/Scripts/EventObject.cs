@@ -3,8 +3,8 @@ using UnityEngine;
 
 namespace com.simenbask.sod.Runtime
 {
-    [CreateAssetMenu(fileName = "New Event", menuName = "ScriptableObject Data/Create new event")]
-    public class Event : ScriptableObject
+    [CreateAssetMenu(fileName = "New EventObject", menuName = "ScriptableObject Data/Create new event object")]
+    public class EventObject : ScriptableObject
     {
         public event Action OnEvent;
 
