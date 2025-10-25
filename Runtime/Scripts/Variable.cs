@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace com.simenbask.sod.Runtime
 {
-    public abstract class Variable<T> : ScriptableObject where T : IEquatable<T>
+    public abstract class Variable<T> : ScriptableObject 
     {
         [SerializeField]
         protected T _value;
