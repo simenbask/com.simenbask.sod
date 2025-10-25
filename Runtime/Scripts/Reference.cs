@@ -3,7 +3,7 @@ using System;
 namespace com.simenbask.sod.Runtime
 {
     [Serializable]
-    public class Reference<T> where T :IEquatable<T>
+    public class Reference<T>
     {
         public bool UseConstant = true;
         public T ConstantValue;

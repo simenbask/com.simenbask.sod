@@ -1,6 +1,6 @@
 {
   "name": "com.simenbask.sod",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "displayName": "ScriptableObject Data",
   "description": "Store runtime data on modular ScriptableObjects for faster implementation with less code.",
   "keywords": [],
