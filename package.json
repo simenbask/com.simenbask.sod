@@ -1,12 +1,12 @@
 {
   "name": "com.simenbask.sod",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "displayName": "ScriptableObject Data",
   "description": "Store runtime data on modular ScriptableObjects for faster implementation with less code.",
   "keywords": [],
   "author": {
     "name": "Simen Barstad Skjevdal",
-    "email": "simskje@gmail.com",
-    "url": "https://www.rainbowshyy.com"
+    "url": "https://www.rainbowshyy.com",
+    "email": "simskje@gmail.com"
   }
 }
