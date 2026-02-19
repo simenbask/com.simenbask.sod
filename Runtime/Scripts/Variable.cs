@@ -10,7 +10,7 @@ namespace com.simenbask.sod.Runtime
 
         public event Action<T> OnValueChanged;
 
-        public T Value
+        public virtual T Value
         {
             get { return _value; }
             set
