@@ -22,5 +22,10 @@ namespace com.simenbask.sod.Runtime
                 }
             }
         }
+
+        public void ValueChanged()
+        {
+            OnValueChanged?.Invoke(_value);
+        }
     }
 }
